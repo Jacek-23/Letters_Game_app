@@ -1,7 +1,7 @@
 # Letters_Game_app
 Gra na punkty dla 2, 3, 4 graczy
 
-Gra towarzyska, która gwarantuje dobrą zabawę jak już się pozna zasady jej gry, które są proste, podobne do gry w Scrabble (zasady są opisane w grze).
+Gra towarzyska, gwarantująca dobrą zabawę jak już się pozna zasady jej gry, które są proste, podobne do gry w Scrabble (zasady są opisane w grze).
 Została wymyślona przeze mnie i zaprogramowana.
 
 Points game for 2, 3, 4 players
